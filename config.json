@@ -1,0 +1,6 @@
+{
+  "jobs_tablename": "jobs",
+  "db_path": "./jobs.db",
+  "csv_path": "./jobs.csv"
+  }
+  

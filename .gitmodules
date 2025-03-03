@@ -1,0 +1,3 @@
+[submodule "jobspy"]
+	path = jobspy
+	url = https://github.com/arkhycat/JobSpy
